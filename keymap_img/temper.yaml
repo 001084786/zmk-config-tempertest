@@ -2,16 +2,7 @@ layout: {zmk_keyboard: temper}
 layers:
   default:
   - [Q, W, E, R, T, Y, U, I, O, P]
-  - - A
-    - R
-    - S
-    - T
-    - G
-    - H
-    - J
-    - K
-    - L
-    - {t: '''', s: '"'}
+  - ['&hm LEFT_SHIFT A', '&hm LCTRL S', '&hm LALT D', '&hm LEFT_GUI F', G, H, '&hm RIGHT_GUI J', '&hm RIGHT_ALT K', '&hm LCTRL L', '&hm RIGHT_SHIFT APOS']
   - - Z
     - X
     - C
